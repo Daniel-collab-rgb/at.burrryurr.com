@@ -10,4 +10,6 @@ Frische Zutaten
 
 Preise Alle menüs 6,50
 Getränke 2,50
-Burger & Hotdog 5,5p0
+Burger & Hotdog 5,50
+Pommes klein 1,50 Groß 3,50
+Bei allen gibt es groß kostet 50cent mehr
