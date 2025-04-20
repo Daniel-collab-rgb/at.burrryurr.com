@@ -1,14 +1,10 @@
-# at.burrryurr.com
-Preise: Burger menü 8,50 mit pommes Getränk
-Hotdog menü 6,50 mit getränk
-Getränke : 2,50
-Alles was kein menü ist 5,50
-![image](https://github.com/user-attachments/assets/accbb4d7-f50a-461a-9326-1ed572ebc5cc)
-![image](https://github.com/user-attachments/assets/4dce9370-b08c-4ebf-8709-ea8ae2d8c41e)
-![image](https://github.com/user-attachments/assets/41d1a1c8-af32-47c4-ae16-01745d4538a0)
-
-
-
-
-
+at.burgerrestourant.com
+Leckere Burger in Niederösterreich
+Bei uns dreht sich alles um saftige und leckere Burger! Wir bieten eine breite Auswahl an verschiedenen Burger-Variationen, vom klassischen Cheeseburger bis hin zu vegetarischen und veganen Optionen. Kommen Sie vorbei und lassen Sie sich von unseren köstlichen Speisen und unserem gemütlichen Ambiente überzeugen.
+Burger-Variationen
+Schnelle Lieferung                       ![image](https://github.com/user-attachments/assets/4f5e8adb-02ba-4333-ba7b-0b83b3b4d2c4)
+          
+Frische Zutaten
+![image](https://github.com/user-attachments/assets/45bc216c-41e9-4609-8406-9a1e13ecaee3)
+![image](https://github.com/user-attachments/assets/7bddbe09-d8e5-484b-9a22-df48b9fa5ddd)
 
