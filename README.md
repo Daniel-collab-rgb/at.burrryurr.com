@@ -13,3 +13,6 @@ Getränke 2,50
 Burger & Hotdog 5,50
 Pommes klein 1,50 Groß 3,50
 Bei allen gibt es groß kostet 50cent mehr
+Sie können uns auch gerne per e-mail melden wenn sie problememit dem essen hatten
+oder andere anliegen 
+E-mail: viennaboy20@icloud.com
