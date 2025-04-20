@@ -8,3 +8,6 @@ Frische Zutaten
 ![image](https://github.com/user-attachments/assets/45bc216c-41e9-4609-8406-9a1e13ecaee3)
 ![image](https://github.com/user-attachments/assets/7bddbe09-d8e5-484b-9a22-df48b9fa5ddd)
 
+Preise Alle menüs 6,50
+Getränke 2,50
+Burger & Hotdog 5,5p0
