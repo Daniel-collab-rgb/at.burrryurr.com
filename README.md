@@ -7,4 +7,6 @@ Schnelle Lieferung                       ![image](https://github.com/user-attach
 Frische Zutaten
 ![image](https://github.com/user-attachments/assets/45bc216c-41e9-4609-8406-9a1e13ecaee3)
 ![image](https://github.com/user-attachments/assets/7bddbe09-d8e5-484b-9a22-df48b9fa5ddd)
-
+Unsere Speisekarte ist vollgepackt mit köstlichen Burgern, die jeden Burger-Liebhaber glücklich machen werden. Wir bieten eine Vielzahl von Burger-Kreationen, die alle mit frischen Zutaten und hausgemachten Saucen zubereitet werden.
+BBQ Bacon Burger
+Der BBQ Bacon Burger ist eine köstliche Kombination aus saftigem Rindfleisch, knusprigem Bacon und herzhaftem Barbecue-Sauce, die
