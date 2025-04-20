@@ -16,3 +16,4 @@ Bei allen gibt es groß kostet 50cent mehr
 Sie können uns auch gerne per e-mail melden wenn sie problememit dem essen hatten
 oder andere anliegen 
 E-mail: viennaboy20@icloud.com
+Die öffnugszeiten werden sie früh genug mitbekommen und die adresse auch.
