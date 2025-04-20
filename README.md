@@ -11,6 +11,4 @@ Alles was kein menü ist 5,50
 
 
 
-Vapes alle für 10 euro 15 euro 20 euro 
 
-![image](https://github.com/user-attachments/assets/4dffca34-b91f-4b1c-8c89-619f9e7110f9)
